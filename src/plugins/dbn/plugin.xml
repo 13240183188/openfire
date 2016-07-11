@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.dbn.openfire.plugin.DbnPlugin</class>
+    <name>DBN Plugin</name>
+    <description>功能包括：离线回执、群聊、公共账号、通知、苹果推送</description>
+    <author>Jacklin</author>
+    <version>1.0.0</version>
+    <date>2/24/2014</date>
+    <minServerVersion>3.8.1</minServerVersion>
+    <databaseKey>dbn</databaseKey>
+    <databaseVersion>1</databaseVersion>
+</plugin>
